@@ -1,0 +1,494 @@
+    1  ssh-i jetpair.pem ec2-userec254-212-247122.
+    2  clr
+    3  logout
+    4  pwd
+    5  ~/desktop
+    6  ~/Desktop
+    7  pwd
+    8  ls
+    9  cd Desktop
+   10  cd Onedrive
+   11  cd Desktop
+   12  ssh -i jetpair.pem ubuntu@34.219.2.3
+   13  pwd
+   14  cd onedrive
+   15  cd Desktop
+   16  ssh -i jetpair.pemubuntu@34.219.2.3
+   17  ssh -i jetpair.pem ubuntu@34.219.2.3
+   18  cd onedrive
+   19  cd Desktop
+   20  ssh-i jetpair.pem ubuntu@34.219.2.3
+   21  ssh-i/jetpair.pem ubuntu@34.219.2.3
+   22  ssh -i jetpair.pem ubuntu@34.219.2.3
+   23  ssh -i "jetpair.pem" ubuntu@ec2-34-219-2-3.us-west-2.compute.amazonaws.com
+   24  clear
+   25  exit
+   26  ssh -i "jetpair.pem" ubuntu@ec2-35-166-190-205.us-west-2.compute.amazonaws.com
+   27  ssh -i ~/downloads jenkinskey.pem ubuntu@54.202.122.127
+   28  Ssh -i ~/downloads jenkinskey.pem ubuntu@54.202.122.127
+   29  ssh -i ~/Download jenkinkey.pem ubuntu@54.202.122.127
+   30  ls
+   31  pwd
+   32  cd ..
+   33  ls
+   34  pwd
+   35  cd ..
+   36  ls
+   37  cd Downloads
+   38  ssh -i jenkey.pem ubuntu@54.202.122.127
+   39  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   40  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   41  sudi -i
+   42  sudo -i
+   43  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   44  ls
+   45  ssh -i "jenkinkey.pem" ubuntu@ec2-54-202-122-127.us-west-2.compute.amazonaws.com
+   46  ssh raju@54.202.122.127
+   47  ssh jenkins@54.202.122.127
+   48  clear
+   49  ssh -i "jenkinkey.pem" ubuntu@ec2-54-202-122-127.us-west-2.compute.amazonaws.com
+   50  ssh jenkins@54.202.122.127
+   51  ssh -i ~/Download jenkins.pem ubuntu@54.202.122.127
+   52  ssh -i ~/Downloads jenkins.pem ubuntu@54.202.122.127
+   53  ssh -i ~/Downloads jenkinkey.pem ubuntu@54.202.122.127
+   54  ssh -i ~/Download jenkinkey.pem ubuntu@54.202.122.127
+   55  ssh -i ~/Download/jenkin.pem ubuntu@54.202.122.127
+   56  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   57  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   58  ssh jetkinkey.pem ubuntu@54.202.122.127
+   59  ssh -i jetkinkey.pem ubuntu@54.202.122.127
+   60  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   61  ssh -i jenkinkey.pem ubuntu@54.202.122.127
+   62  cd..
+   63  cd ..
+   64  ls
+   65  cd ..
+   66  ls
+   67  cd Download
+   68  cd Downloads
+   69  ssh jenkinkey.pem ubuntu@54.185.239.222
+   70  ssh -i jenkinkey.pem ubuntu@54.185.239.222
+   71  ls
+   72  cd onedrive
+   73  ls
+   74  cd ..
+   75  la
+   76  ls
+   77  cd Downloads
+   78  ssh -i jenkinjey.pem ubuntu@34.222.26.127
+   79  ssh -i jenkinjey.pem ubuntu@34.222.26.127
+   80  ssh -i jenkinjey.pem ubuntu@34.222.26.127
+   81  cd Downloads
+   82  ssh -i jenkinkey.pem ubuntu@34.222.26.127
+   83  cd Downloads
+   84  ssh -i jenkinkey.pem ubuntu@34.222.26.127
+   85  ssh -i jenkinkey.pem linux@54.218.68.57
+   86  ssh -i "jenkinkey.pem" ec2-user@ec2-54-218-68-57.us-west-2.compute.amazonaws.com
+   87  ssh -i "jenkinkey.pem" ubuntu@ec2-35-167-67-171.us-west-2.compute.amazonaws.com
+   88  ssh -i "jenkinkey.pem" ubuntu@ec2-35-167-67-171.us-west-2.compute.amazonaws.com
+   89  ssh -i "jenkinkey.pem" ubuntu@ec2-35-167-67-171.us-west-2.compute.amazonaws.com
+   90  ssh -i "jenkinkey.pem" ec2-user@ec2-54-218-68-57.us-west-2.compute.amazonaws.com
+   91  ssh -i "apache.pem" ubuntu@ec2-52-42-153-83.us-west-2.compute.amazonaws.com
+   92  ssh -i "apache.pem" ubuntu@ec2-52-42-153-83.us-west-2.compute.amazonaws.com
+   93  cd ~/downloads
+   94  ls
+   95  ssh -i "doocker.pem" ubuntu@ec2-34-220-99-12.us-west-2.compute.amazonaws.com
+   96  cd ~/documents
+   97  ssh -i "doocker.pem" ubuntu@ec2-34-220-99-12.us-west-2.compute.amazonaws.com
+   98  ssh -i "apache.pem" ubuntu@ec2-52-42-153-83.us-west-2.compute.amazonaws.com
+   99  ssh -i "doocker.pem" ubuntu@ec2-54-187-135-225.us-west-2.compute.amazonaws.com
+  100  ssh -i "doocker.pem" ubuntu@ec2-54-187-135-225.us-west-2.compute.amazonaws.com
+  101  curl -fsSL https://get.docker.com -o get-docker.sh
+  102  sh get-docker.sh
+  103  ssh -i "20.pem" ubuntu@ec2-54-186-187-38.us-west-2.compute.amazonaws.com
+  104  ssh -i "20.pem" ubuntu@ec2-54-186-187-38.us-west-2.compute.amazonaws.com
+  105  ssh ahamad@40.76.220.159
+  106  ssh ahamad@40.76.220.159
+  107  ssh ahamad@40.76.220.159
+  108  vi mai.json
+  109  mddir aaa
+  110  mkdir aaa
+  111  cd aaa
+  112  touch main22.json
+  113  ls
+  114  md storage account
+  115  ls
+  116  md saddam
+  117  mkdir maaz
+  118  cd maaz
+  119  touch maseera.json
+  120  ls
+  121  ssh -i <private key path> saddam@40.83.13.199
+  122  ssh -i <private key path> saddam@40.83.13.199
+  123  chmod 400 saddam.pemchmod 400 saddam.pem
+  124  chmod 400 saddam.pem
+  125  ssh -i <private key path> saddam@40.83.13.199
+  126  chmod 400 saddam.pem
+  127  ssh hhhh@168.61.220.150
+  128  ssh -i  saddamlinux@104.43.169.102
+  129   saddamlinux@104.43.169.102
+  130  ssh -i <private key path> saddamlinux@104.43.169.102
+  131  ssh saddamlinux@104.43.169.102
+  132  Git --version
+  133  exit
+  134  git --version
+  135  git -version
+  136  git --version
+  137  ex
+  138  cls
+  139  clear
+  140  exit
+  141  Passport Number:Passport Number:=Passport Number:=]
+  142  '/;'/;'/;.;l.l;.,lk,lk,//'
+  143  git init
+  144  mkdir
+  145  mkdir
+  146  mkdir --help
+  147  mkdir saddam
+  148  cd saddam
+  149  touch file 1 file 2 file 3
+  150  ls
+  151  cd ..
+  152  ls
+  153  cd saddam
+  154  ls
+  155  del file 1 2 3
+  156  rm file 1 2 3
+  157  ls
+  158  git init
+  159  ls
+  160  git --version
+  161  git status
+  162  ls
+  163  pwd
+  164  cd..
+  165  cd ..
+  166  pwd
+  167  cls
+  168  clr
+  169  clear
+  170  git init
+  171  git --versin
+  172  git --version
+  173  pwd
+  174  cd git
+  175  cd GIT
+  176  ls
+  177  cd saddam
+  178  pwd
+  179  git init
+  180  ls
+  181  cd GIT
+  182  pwd
+  183  mkdir saddam
+  184  cd saddam
+  185  git init
+  186  ls
+  187  pwd
+  188  git --version
+  189  git config --list
+  190  clear
+  191  git config --global user.name saddam
+  192  git congig --global user.email "ahamadmohammad@gmail.com"
+  193  git config --global user.email "ahamadmohammad@gmail.com"
+  194  git config --global color.ui auto
+  195  git config --list
+  196  ls
+  197  mkdir demo1
+  198  ls
+  199  cd demo1
+  200  touch file1 file2 file3
+  201  pwd
+  202  ls
+  203  git init
+  204  git status
+  205  clear
+  206  git add file1
+  207  git status
+  208  git add file2 file3
+  209  git status
+  210  clear
+  211  git status
+  212  git tree
+  213  mktree
+  214  tree -d
+  215  cd ..
+  216  tree -d
+  217  cd demo1
+  218  pwd
+  219  ls
+  220  git remote add saddamrepo https://github.com/ahamadmohammad
+  221  git commit -m "1st commit"
+  222  git push https://github.com/ahamadmohammad
+  223  git status
+  224  git status
+  225  git config --list
+  226  ls
+  227  git status
+  228  git status
+  229  pwd
+  230  ls
+  231  git add .
+  232  git status
+  233  git push https://github.com/ahamadmohammad --all
+  234  touch file4 file5 file6
+  235  ls
+  236  git status
+  237  git config --list
+  238  git status
+  239  git add.
+  240  git add .
+  241  git status
+  242  git commit -m "2nd commit"
+  243  git status
+  244  git push https://github.com/ahamadmohammad
+  245  cls
+  246  clear
+  247  git remote
+  248  git status
+  249  git push -u origin master
+  250  git remote add origin https://github.com/ahamadmohammad/saddam.git
+  251  git config --status
+  252  git config --list
+  253   exit
+  254  ls
+  255  cd git
+  256  ls
+  257  touch file1 file2 file3
+  258  ls
+  259  pwd
+  260  pwd
+  261  git add origin https://github.com/ahamadmohammad/demo
+  262  git add origin https://github.com/ahamadmohammad/demo.git
+  263  git add origin https://github.com/ahamadmohammad/demo .git
+  264  git remote add origin https://github.com/ahamadmohammad/demo.git
+  265  git remote add origin https://github.com/ahamadmohammad/demo
+  266  pwd
+  267  git init
+  268  pwd
+  269  ls
+  270  git remote add origin https://github.com/ahamadmohammad/demo
+  271  git remote -v
+  272  git status
+  273  git add file1
+  274  git status
+  275  git add.
+  276  git add .
+  277  git status
+  278  git commit -m "first commit"
+  279  git push origin master
+  280  ls
+  281  git status
+  282  git push origin master
+  283  pwd
+  284  ls
+  285  git status
+  286  git push origin master
+  287  git push origin master
+  288  git push origin master
+  289  git status
+  290  ls
+  291  git push origin master
+  292  exit
+  293  pwd
+  294  ls
+  295  cdgit
+  296  cd git
+  297  pwd
+  298  ls
+  299  git remote add https://github.com/ahamadmohammad/joker.git
+  300  git init
+  301  ls
+  302  git remote add https:/github.com/ahamadmohammad/joker.git
+  303  ls
+  304  git status
+  305  git add .
+  306  git status
+  307  git commit -m "first commit"
+  308  git push origin master
+  309  git status
+  310  git push origin master
+  311  git push origin master 
+  312  git status
+  313  git push origin https://github.com/ahamadmohammad/joker
+  314  git config --global user.name saddam
+  315  git config --global user.email ahamadmohammad@gmail.com
+  316  git config --global list
+  317  git config --global -list
+  318  git config --list
+  319  push origin master 
+  320  git push origin master 
+  321  git push origin master https://github.com/ahamadmohammad/joker
+  322  git push origin  https://github.com/ahamadmohammad/joker
+  323  git push origin  https://github.com/ahamadmohammad/joker
+  324  git status
+  325  ls
+  326  git add remote 
+  327  git remote add https://github.com/ahamadmohammad/joker
+  328  ls
+  329  exit
+  330  ls
+  331  pwd
+  332  ls
+  333  cd git
+  334  ls
+  335  touch file1 file2 file3
+  336  ls
+  337  git init
+  338  ls
+  339  git config -- global user.name ahamad
+  340  git config --global user.name ahamad
+  341  git config --global user.email ahamadmohammad@gmail.com
+  342  git config --list
+  343  git remote add origin https://github.com/ahamadmohammad?tab=repositories
+  344  git push origin
+  345  git push origin master
+  346  git push origin master https://github.com/ahamadmohammad?tab=repositories
+  347  git push origin master https://github.com/ahamadmohammad/hub.git
+  348  git push origin master https://github.com/ahamadmohammad/
+  349  git push -u origin master
+  350  git status
+  351  git status
+  352  git add .
+  353  git status
+  354  git commit -m "first commit"
+  355  git push origin master https://github.com/ahamadmohammad/
+  356  git push https://github.com/ahamadmohammad?tab=repositories
+  357  git status
+  358  push https://github.com/ahamadmohammad?tab=repositories
+  359  git push origin master https://github.com/new
+  360  git push https://github.com/new
+  361  git push 
+  362  git status
+  363  ree -d
+  364  tree -d
+  365  exit
+  366  ls
+  367  cd git
+  368  ls
+  369  touch file1 file2 file3
+  370  ls
+  371  ls
+  372  git init
+  373  ls
+  374  git add file
+  375  git add file1
+  376  git status
+  377  git diff HEAD
+  378  git diff --HEAD
+  379  git diff --HEAD file3
+  380  git add .
+  381  git status
+  382  git diff --HEAD "file3"
+  383  git diff
+  384  git branch
+  385  git diff --head
+  386  git diff --HEAD
+  387  tree -d
+  388  git tree -d
+  389  git --help
+  390  git status
+  391  git commit -m "first commit"
+  392  git branch
+  393  git status
+  394  git push origin master https://github.com/ahamadmohammad
+  395  git config --global user.name ahamad
+  396  git config --global -list
+  397  git config --global --list
+  398  git status
+  399  git diff
+  400  gitbrnach
+  401  git brnach
+  402  git branach
+  403  git branch
+  404  git remote add 'https://github.com/ahamadmohammad'
+  405  git remote add hub 'https://github.com/ahamadmohammad'
+  406  git push origin master hub 'https://github.com/ahamadmohammad'
+  407  git push origin master 'https://github.com/ahamadmohammad'
+  408  git push origin master 'https://github.com/ahamadmohammad/joker.git
+  409  hi
+  410  ji
+  411  !wq
+  412  pwd
+  413  ls
+  414  cd git
+  415  pwd
+  416  ls
+  417  git init
+  418  ls
+  419  git status
+  420  git add .
+  421  sit status
+  422  git status
+  423  git commit -m "first commit "
+  424  git config
+  425  git config --list
+  426  git remote add https://github.com/ahamadmohammad/
+  427  git remote add julydemo https://github.com/ahamadmohammad/
+  428  push -u origin master
+  429  git push -u origin master
+  430  git remote add https://github.com/ahamadmohammad/myfirstrepo.git
+  431  push -u origin master
+  432  git push -u rigin master
+  433  git push -u origin master
+  434  git status
+  435  git remote add origin https://github.com/ahamadmohammad/myfirstrepo.git
+  436  gt push -u origin master
+  437  git push -u origin master
+  438  git config
+  439  git config --list
+  440  git remte -v
+  441  git remote -v
+  442  git status
+  443  git remote -v
+  444  exit
+  445  ls
+  446  cd git
+  447  git init
+  448  ls
+  449  git add .
+  450  git status
+  451  git commit -m "last commit"
+  452  git status
+  453  git config --list
+  454  git status
+  455  git status
+  456  git remote add 
+  457  git remote add origin https://github.com/ahamadmohammad
+  458  git push -u https://github.com/ahamadmohammad/project1.git
+  459  git pull  https://github.com/ahamadmohammad/project1.git
+  460  git pull origin master --allow-unrelated-histories
+  461  gi remote
+  462  git remote
+  463  git pull origin  --allow-unrelated-histories
+  464  git push -u git@github.com:ahamadmohammad/project1.git
+  465  git push -u https://github.com/ahamadmohammad/project1.git
+  466  git pull
+  467  git pull remote origin https://github.com/ahamadmohammad/project1.git
+  468  git pull remote https://github.com/ahamadmohammad/project1.git
+  469  git push  https://github.com/ahamadmohammad/project1.git
+  470  git status
+  471  git pull --allow-unrelated-histories origin master
+  472  git remote add origin https://github.com/ahamadmohammad/project1.git
+  473  git remote set-url origin  https://github.com/ahamadmohammad/project1.git
+  474  git remote add github  https://github.com/ahamadmohammad/project1.git
+  475  git push -u https://github.com/ahamadmohammad/project1.git
+  476  git remote -v
+  477  gitgit remote rm origingit 
+  478  git remote rm origin
+  479  git remote rm git
+  480  git remote -v
+  481  git remote rm github
+  482  git remote add origin git@github.com:ahamadmohammad/project1.git
+  483  git status
+  484  git push
+  485  git push --set-upstream origin master
+  486  git push
+  487  git push https://github.com/ahamadmohammad/project1.git
+  488  git pull
+  489  git remote -v
+  490  git branch develop
+  491  git checkout develop
+  492  git push https://github.com/ahamadmohammad/project1.git
+  493  cd ..
+  494  history > githist-jul26
