@@ -1,16 +1,3 @@
-    1  ssh-i jetpair.pem ec2-userec254-212-247122.
-    2  clr
-    3  logout
-    4  pwd
-    5  ~/desktop
-    6  ~/Desktop
-    7  pwd
-    8  ls
-    9  cd Desktop
-   10  cd Onedrive
-   11  cd Desktop
-   12  ssh -i jetpair.pem ubuntu@34.219.2.3
-   13  pwd
    14  cd onedrive
    15  cd Desktop
    16  ssh -i jetpair.pemubuntu@34.219.2.3
@@ -492,3 +479,22 @@
   492  git push https://github.com/ahamadmohammad/project1.git
   493  cd ..
   494  history > githist-jul26
+  495  git status
+  496  git commit -m " "git hsitory file"
+  497  git add githist-jul26
+  498  git status
+  499  git commit -m "git history file"
+  500  git push
+  501  git pulll
+  502  git pull
+  503  git push
+  504  git push https://github.com/ahamadmohammad/project1.git
+  505  git pull
+  506  git pulll
+  507  git pull
+  508  git status
+  509  git add Difference-Between-Git-Fetch-and-Git-Pull.png 
+  510  git add git-pull2.png 
+  511  git status
+  512  ls
+  513  history > githist-jul26 
